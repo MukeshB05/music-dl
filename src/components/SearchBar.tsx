@@ -171,7 +171,7 @@ export default function SearchBar({ onUrlFetch, onSearch, isLoading }: SearchBar
            exit={{ opacity: 0 }}
            className="text-[11px] text-white/60 font-mono text-center"
         >
-          e.g. Blinding Lights - The Weeknd or https://www.jiosaavn.com/song/blinding-lights/Fj9GfAxDWUY
+          e.g: En Kaathaake Nee - Promo Song  or https://www.jiosaavn.com/song/en-kaathaake-nee-promo-song-from-madhuvidhu/OyQzdE1AUVc
         </motion.p>
         )}
         {mode === 'query' && (
