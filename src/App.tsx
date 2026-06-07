@@ -193,8 +193,8 @@ export default function App() {
             </h1>
           </div>
           <p className="text-[13px] text-white/60 font-body">
-            Search or paste a link · download up to{' '}
-            <span className="text-cyan font-mono">320 kbps with image</span>
+            Search results are fetched from jiosaavn.com · Downloading up to{' '}
+            <span className="text-cyan font-mono">320kbps with album song image</span>
           </p>
         </motion.div>
 
