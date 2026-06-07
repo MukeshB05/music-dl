@@ -9,7 +9,7 @@ import { searchSongs } from './utils/search';
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 
-const SONG_API = 'https://sda.rhythmax.workers.dev';
+const SONG_API = 'https://dreamly.mukeshlive.workers.dev';
 
 // ─── View states ──────────────────────────────────────────────────────────────
 
@@ -189,7 +189,7 @@ export default function App() {
           <div className="flex items-center justify-center gap-3 mb-2">
            
             <h1 className="text-2xl font-display font-bold text-text-primary tracking-tight">
-              saavn<span className="text-cyan">-dl</span>
+              Dreamly5<span className="text-cyan">-DL</span>
             </h1>
           </div>
           <p className="text-[13px] text-white/60 font-body">
