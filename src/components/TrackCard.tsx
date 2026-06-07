@@ -31,7 +31,7 @@ export default function TrackCard({ song }: TrackCardProps) {
   const { more_info } = song;
   const primaryArtists = more_info.artists.primary.map((a) => a.name).join(', ');
   const imageUrl =
-  `https://sda.rhythmax.workers.dev/image?url=${encodeURIComponent(song.image)}`;
+  `https://dreamly.mukeshlive.workers.dev/image?url=${encodeURIComponent(song.image)}`;
 
   return (
     <motion.div
