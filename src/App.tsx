@@ -194,7 +194,7 @@ export default function App() {
           </div>
           <p className="text-[13px] text-white/60 font-body">
             Search or paste a link · download up to{' '}
-            <span className="text-cyan font-mono">320 kbps</span>
+            <span className="text-cyan font-mono">320 kbps with image</span>
           </p>
         </motion.div>
 
